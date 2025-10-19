@@ -2,6 +2,8 @@
 
 Annotate `.mp4` videos in this repo with tree bounding boxes using the [DeepForest](https://deepforest.readthedocs.io/) model. Outputs annotated videos and optional per-frame detection CSVs.
 
+https://github.com/user-attachments/assets/0c8c8c7e-5c17-4b46-9af6-48d40fbd6217
+
 ### 1) Setup (macOS)
 
 ```bash
